@@ -1,0 +1,17 @@
+{
+  "name": "blog-scrape",
+  "version": "0.0.0",
+  "description": "scrape blogs",
+  "main": "finance_blogs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.31.0",
+    "underscore": "~1.5.2",
+    "jsdom": "~0.8.10"
+  }
+}
